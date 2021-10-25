@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/brython/3.8.8/brython.js" integrity="sha256-rA89wPrTJJQFWJaZveKW8jpdmC3t5F9rRkPyBjz8G04=" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/brython/3.8.8/brython_stdlib.js" integrity="sha256-Gnrw9tIjrsXcZSCh/wos5Jrpn0bNVNFJuNJI9d71TDs=" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style/main.css">
+    <title>Benion Brython</title>
+</head>
+<body onload="brython()">
+    <h1>Benion Brython Crash Course</h1>
+
+    <!-- Alert and DOM Insert -->
+    <h2 id="hello"></h2>
+    <button id="alert-button">Alert & Insert</button>
+
+    <!-- Text Bind -->
+    <input type="text" id="text" placeholder="Type In Something......">
+    <span id="output"></span>
+
+    <!-- Template and Variable -->
+    <h2 id="greet">Hello {name}</h2>
+
+    <!-- Ajax Call -->
+    <button id="joke-button">Get Joke</button>
+    <div id="joke" class="card">
+        Click The "Get Joke" Button
+    </div>
+
+    <!-- Load File Data -->
+    <input type="file" id="file-output">
+    <br>
+    <textarea id="file-text" cols="60" rows="10"></textarea>
+
+    <!-- Rotate - Manipulate Styles -->
+    <div class="card">
+        <button id="rotate-button">Rotate Box</button>
+        <div id="rotate-box" class="box"></div>
+    </div>
+
+    <!-- Local Storage -->
+    <h2>Saved Item: <span id="item"></span></h2>
+    <input type="text" id="item-input" placeholder="Add To Local Storage...">
+    <button id="add-button" style="display: inline;">Add Item</button>
+    <button id="remove-button" style="display: inline;">Remove Item</button>
+
+    <!-- Python Scripts -->
+    <script src="scripts/alert and insert.py" type="text/python" id="script1"></script>
+    <script src="scripts/text bind.py" type="text/python" id="script2"></script>
+    <script src="scripts/template and variable.py" type="text/python" id="script3"></script>
+    <script src="scripts/ajax call.py" type="text/python" id="script4"></script>
+    <script src="scripts/load file data.py" type="text/python" id="script5"></script>
+    <script src="scripts/manipulate style.py" type="text/python" id="script6"></script>
+    <script src="scripts/local storage.py" type="text/python" id="script7"></script>
+</body>
+</html>

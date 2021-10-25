@@ -1,0 +1,14 @@
+.idea
+.vscode
+__pycache__
+benion_demo
+benion_deploy_venv
+.ipynb_checkpoints
+venv
+data.csv
+movie_metadata.csv
+moviereviews.tsv
+OnlineRetail.csv
+playstation_dataset.csv
+weatherHistory.csv
+vgsales.csv
