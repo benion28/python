@@ -1,3 +1,1 @@
-number = "+2348175619445"
-
-
+number = input("Insert A Phone Number: ")
