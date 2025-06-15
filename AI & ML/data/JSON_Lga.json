@@ -1,0 +1,722 @@
+[
+  {
+    "code": 301,
+    "state_code": 2016,
+    "name": "LGA_001"
+  },
+  {
+    "code": 302,
+    "state_code": 2017,
+    "name": "LGA_002"
+  },
+  {
+    "code": 303,
+    "state_code": 2018,
+    "name": "LGA_003"
+  },
+  {
+    "code": 304,
+    "state_code": 2019,
+    "name": "LGA_004"
+  },
+  {
+    "code": 305,
+    "state_code": 2020,
+    "name": "LGA_005"
+  },
+  {
+    "code": 306,
+    "state_code": 2021,
+    "name": "LGA_011"
+  },
+  {
+    "code": 307,
+    "state_code": 2022,
+    "name": "LGA_012"
+  },
+  {
+    "code": 308,
+    "state_code": 2023,
+    "name": "LGA_013"
+  },
+  {
+    "code": 309,
+    "state_code": 2024,
+    "name": "LGA_014"
+  },
+  {
+    "code": 310,
+    "state_code": 2025,
+    "name": "LGA_015"
+  },
+  {
+    "code": 311,
+    "state_code": 2026,
+    "name": "LGA_021"
+  },
+  {
+    "code": 312,
+    "state_code": 2027,
+    "name": "LGA_022"
+  },
+  {
+    "code": 313,
+    "state_code": 2028,
+    "name": "LGA_023"
+  },
+  {
+    "code": 314,
+    "state_code": 2029,
+    "name": "LGA_024"
+  },
+  {
+    "code": 315,
+    "state_code": 2030,
+    "name": "LGA_025"
+  },
+  {
+    "code": 316,
+    "state_code": 2031,
+    "name": "LGA_031"
+  },
+  {
+    "code": 317,
+    "state_code": 2032,
+    "name": "LGA_032"
+  },
+  {
+    "code": 318,
+    "state_code": 2033,
+    "name": "LGA_033"
+  },
+  {
+    "code": 319,
+    "state_code": 2034,
+    "name": "LGA_034"
+  },
+  {
+    "code": 320,
+    "state_code": 2035,
+    "name": "LGA_035"
+  },
+  {
+    "code": 321,
+    "state_code": 2036,
+    "name": "LGA_041"
+  },
+  {
+    "code": 322,
+    "state_code": 2037,
+    "name": "LGA_042"
+  },
+  {
+    "code": 323,
+    "state_code": 2038,
+    "name": "LGA_043"
+  },
+  {
+    "code": 324,
+    "state_code": 2039,
+    "name": "LGA_044"
+  },
+  {
+    "code": 325,
+    "state_code": 2040,
+    "name": "LGA_045"
+  },
+  {
+    "code": 326,
+    "state_code": 2041,
+    "name": "LGA_051"
+  },
+  {
+    "code": 327,
+    "state_code": 2042,
+    "name": "LGA_052"
+  },
+  {
+    "code": 328,
+    "state_code": 2043,
+    "name": "LGA_053"
+  },
+  {
+    "code": 329,
+    "state_code": 2044,
+    "name": "LGA_054"
+  },
+  {
+    "code": 330,
+    "state_code": 2045,
+    "name": "LGA_055"
+  },
+  {
+    "code": 331,
+    "state_code": 2046,
+    "name": "LGA_061"
+  },
+  {
+    "code": 332,
+    "state_code": 2047,
+    "name": "LGA_062"
+  },
+  {
+    "code": 333,
+    "state_code": 2048,
+    "name": "LGA_063"
+  },
+  {
+    "code": 334,
+    "state_code": 2049,
+    "name": "LGA_064"
+  },
+  {
+    "code": 335,
+    "state_code": 2050,
+    "name": "LGA_065"
+  },
+  {
+    "code": 336,
+    "state_code": 2030,
+    "name": "LGA_071"
+  },
+  {
+    "code": 337,
+    "state_code": 2052,
+    "name": "LGA_072"
+  },
+  {
+    "code": 338,
+    "state_code": 2053,
+    "name": "LGA_073"
+  },
+  {
+    "code": 339,
+    "state_code": 2016,
+    "name": "LGA_074"
+  },
+  {
+    "code": 340,
+    "state_code": 2017,
+    "name": "LGA_075"
+  },
+  {
+    "code": 341,
+    "state_code": 2018,
+    "name": "LGA_081"
+  },
+  {
+    "code": 342,
+    "state_code": 2019,
+    "name": "LGA_082"
+  },
+  {
+    "code": 343,
+    "state_code": 2020,
+    "name": "LGA_083"
+  },
+  {
+    "code": 344,
+    "state_code": 2021,
+    "name": "LGA_084"
+  },
+  {
+    "code": 345,
+    "state_code": 2022,
+    "name": "LGA_085"
+  },
+  {
+    "code": 346,
+    "state_code": 2023,
+    "name": "LGA_091"
+  },
+  {
+    "code": 347,
+    "state_code": 2024,
+    "name": "LGA_092"
+  },
+  {
+    "code": 348,
+    "state_code": 2025,
+    "name": "LGA_093"
+  },
+  {
+    "code": 349,
+    "state_code": 2026,
+    "name": "LGA_094"
+  },
+  {
+    "code": 350,
+    "state_code": 2027,
+    "name": "LGA_095"
+  },
+  {
+    "code": 351,
+    "state_code": 2028,
+    "name": "LGA_101"
+  },
+  {
+    "code": 352,
+    "state_code": 2029,
+    "name": "LGA_102"
+  },
+  {
+    "code": 353,
+    "state_code": 2030,
+    "name": "LGA_103"
+  },
+  {
+    "code": 354,
+    "state_code": 2031,
+    "name": "LGA_104"
+  },
+  {
+    "code": 355,
+    "state_code": 2032,
+    "name": "LGA_105"
+  },
+  {
+    "code": 356,
+    "state_code": 2033,
+    "name": "LGA_111"
+  },
+  {
+    "code": 357,
+    "state_code": 2034,
+    "name": "LGA_112"
+  },
+  {
+    "code": 358,
+    "state_code": 2035,
+    "name": "LGA_113"
+  },
+  {
+    "code": 359,
+    "state_code": 2036,
+    "name": "LGA_114"
+  },
+  {
+    "code": 360,
+    "state_code": 2037,
+    "name": "LGA_115"
+  },
+  {
+    "code": 361,
+    "state_code": 2038,
+    "name": "LGA_121"
+  },
+  {
+    "code": 362,
+    "state_code": 2039,
+    "name": "LGA_122"
+  },
+  {
+    "code": 363,
+    "state_code": 2040,
+    "name": "LGA_123"
+  },
+  {
+    "code": 364,
+    "state_code": 2041,
+    "name": "LGA_124"
+  },
+  {
+    "code": 365,
+    "state_code": 2042,
+    "name": "LGA_125"
+  },
+  {
+    "code": 366,
+    "state_code": 2043,
+    "name": "LGA_131"
+  },
+  {
+    "code": 367,
+    "state_code": 2044,
+    "name": "LGA_132"
+  },
+  {
+    "code": 368,
+    "state_code": 2045,
+    "name": "LGA_133"
+  },
+  {
+    "code": 369,
+    "state_code": 2046,
+    "name": "LGA_134"
+  },
+  {
+    "code": 370,
+    "state_code": 2047,
+    "name": "LGA_135"
+  },
+  {
+    "code": 371,
+    "state_code": 2048,
+    "name": "LGA_141"
+  },
+  {
+    "code": 372,
+    "state_code": 2049,
+    "name": "LGA_142"
+  },
+  {
+    "code": 373,
+    "state_code": 2050,
+    "name": "LGA_143"
+  },
+  {
+    "code": 374,
+    "state_code": 2030,
+    "name": "LGA_144"
+  },
+  {
+    "code": 375,
+    "state_code": 2052,
+    "name": "LGA_145"
+  },
+  {
+    "code": 376,
+    "state_code": 2053,
+    "name": "LGA_151"
+  },
+  {
+    "code": 377,
+    "state_code": 2016,
+    "name": "LGA_152"
+  },
+  {
+    "code": 378,
+    "state_code": 2017,
+    "name": "LGA_153"
+  },
+  {
+    "code": 379,
+    "state_code": 2018,
+    "name": "LGA_154"
+  },
+  {
+    "code": 380,
+    "state_code": 2019,
+    "name": "LGA_155"
+  },
+  {
+    "code": 381,
+    "state_code": 2020,
+    "name": "LGA_161"
+  },
+  {
+    "code": 382,
+    "state_code": 2021,
+    "name": "LGA_162"
+  },
+  {
+    "code": 383,
+    "state_code": 2022,
+    "name": "LGA_163"
+  },
+  {
+    "code": 384,
+    "state_code": 2023,
+    "name": "LGA_164"
+  },
+  {
+    "code": 385,
+    "state_code": 2024,
+    "name": "LGA_165"
+  },
+  {
+    "code": 386,
+    "state_code": 2025,
+    "name": "LGA_171"
+  },
+  {
+    "code": 387,
+    "state_code": 2026,
+    "name": "LGA_172"
+  },
+  {
+    "code": 388,
+    "state_code": 2027,
+    "name": "LGA_173"
+  },
+  {
+    "code": 389,
+    "state_code": 2028,
+    "name": "LGA_174"
+  },
+  {
+    "code": 390,
+    "state_code": 2029,
+    "name": "LGA_175"
+  },
+  {
+    "code": 391,
+    "state_code": 2030,
+    "name": "LGA_181"
+  },
+  {
+    "code": 392,
+    "state_code": 2031,
+    "name": "LGA_182"
+  },
+  {
+    "code": 393,
+    "state_code": 2032,
+    "name": "LGA_183"
+  },
+  {
+    "code": 394,
+    "state_code": 2033,
+    "name": "LGA_184"
+  },
+  {
+    "code": 395,
+    "state_code": 2034,
+    "name": "LGA_185"
+  },
+  {
+    "code": 396,
+    "state_code": 2035,
+    "name": "LGA_191"
+  },
+  {
+    "code": 397,
+    "state_code": 2036,
+    "name": "LGA_192"
+  },
+  {
+    "code": 398,
+    "state_code": 2037,
+    "name": "LGA_193"
+  },
+  {
+    "code": 399,
+    "state_code": 2038,
+    "name": "LGA_194"
+  },
+  {
+    "code": 400,
+    "state_code": 2039,
+    "name": "LGA_195"
+  },
+  {
+    "code": 401,
+    "state_code": 2040,
+    "name": "LGA_201"
+  },
+  {
+    "code": 402,
+    "state_code": 2041,
+    "name": "LGA_202"
+  },
+  {
+    "code": 403,
+    "state_code": 2042,
+    "name": "LGA_203"
+  },
+  {
+    "code": 404,
+    "state_code": 2043,
+    "name": "LGA_204"
+  },
+  {
+    "code": 405,
+    "state_code": 2044,
+    "name": "LGA_205"
+  },
+  {
+    "code": 406,
+    "state_code": 2045,
+    "name": "LGA_211"
+  },
+  {
+    "code": 407,
+    "state_code": 2046,
+    "name": "LGA_212"
+  },
+  {
+    "code": 408,
+    "state_code": 2047,
+    "name": "LGA_213"
+  },
+  {
+    "code": 409,
+    "state_code": 2048,
+    "name": "LGA_214"
+  },
+  {
+    "code": 410,
+    "state_code": 2049,
+    "name": "LGA_215"
+  },
+  {
+    "code": 411,
+    "state_code": 2050,
+    "name": "LGA_221"
+  },
+  {
+    "code": 412,
+    "state_code": 2030,
+    "name": "LGA_222"
+  },
+  {
+    "code": 413,
+    "state_code": 2052,
+    "name": "LGA_223"
+  },
+  {
+    "code": 414,
+    "state_code": 2053,
+    "name": "LGA_224"
+  },
+  {
+    "code": 415,
+    "state_code": 2016,
+    "name": "LGA_225"
+  },
+  {
+    "code": 416,
+    "state_code": 2017,
+    "name": "LGA_231"
+  },
+  {
+    "code": 417,
+    "state_code": 2018,
+    "name": "LGA_232"
+  },
+  {
+    "code": 418,
+    "state_code": 2019,
+    "name": "LGA_233"
+  },
+  {
+    "code": 419,
+    "state_code": 2020,
+    "name": "LGA_234"
+  },
+  {
+    "code": 420,
+    "state_code": 2021,
+    "name": "LGA_235"
+  },
+  {
+    "code": 421,
+    "state_code": 2022,
+    "name": "LGA_241"
+  },
+  {
+    "code": 422,
+    "state_code": 2023,
+    "name": "LGA_242"
+  },
+  {
+    "code": 423,
+    "state_code": 2024,
+    "name": "LGA_243"
+  },
+  {
+    "code": 424,
+    "state_code": 2025,
+    "name": "LGA_244"
+  },
+  {
+    "code": 425,
+    "state_code": 2026,
+    "name": "LGA_245"
+  },
+  {
+    "code": 426,
+    "state_code": 2027,
+    "name": "LGA_251"
+  },
+  {
+    "code": 427,
+    "state_code": 2028,
+    "name": "LGA_252"
+  },
+  {
+    "code": 428,
+    "state_code": 2029,
+    "name": "LGA_253"
+  },
+  {
+    "code": 429,
+    "state_code": 2030,
+    "name": "LGA_254"
+  },
+  {
+    "code": 430,
+    "state_code": 2031,
+    "name": "LGA_255"
+  },
+  {
+    "code": 431,
+    "state_code": 2032,
+    "name": "LGA_261"
+  },
+  {
+    "code": 432,
+    "state_code": 2033,
+    "name": "LGA_262"
+  },
+  {
+    "code": 433,
+    "state_code": 2034,
+    "name": "LGA_263"
+  },
+  {
+    "code": 434,
+    "state_code": 2035,
+    "name": "LGA_264"
+  },
+  {
+    "code": 435,
+    "state_code": 2036,
+    "name": "LGA_265"
+  },
+  {
+    "code": 436,
+    "state_code": 2037,
+    "name": "LGA_271"
+  },
+  {
+    "code": 437,
+    "state_code": 2038,
+    "name": "LGA_272"
+  },
+  {
+    "code": 438,
+    "state_code": 2039,
+    "name": "LGA_273"
+  },
+  {
+    "code": 439,
+    "state_code": 2040,
+    "name": "LGA_274"
+  },
+  {
+    "code": 440,
+    "state_code": 2041,
+    "name": "LGA_275"
+  },
+  {
+    "code": 441,
+    "state_code": 2042,
+    "name": "LGA_281"
+  },
+  {
+    "code": 442,
+    "state_code": 2043,
+    "name": "LGA_282"
+  },
+  {
+    "code": 443,
+    "state_code": 2044,
+    "name": "LGA_283"
+  },
+  {
+    "code": 444,
+    "state_code": 2045,
+    "name": "LGA_284"
+  }
+]

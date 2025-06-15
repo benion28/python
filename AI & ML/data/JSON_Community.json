@@ -1,0 +1,1017 @@
+[
+  {
+    "code": 300001,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_001"
+  },
+  {
+    "code": 300002,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_002"
+  },
+  {
+    "code": 300003,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_003"
+  },
+  {
+    "code": 300004,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_004"
+  },
+  {
+    "code": 300005,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_005"
+  },
+  {
+    "code": 300011,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_011"
+  },
+  {
+    "code": 300012,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_012"
+  },
+  {
+    "code": 300013,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_013"
+  },
+  {
+    "code": 300014,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_014"
+  },
+  {
+    "code": 300015,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_015"
+  },
+  {
+    "code": 300021,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_021"
+  },
+  {
+    "code": 300022,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_022"
+  },
+  {
+    "code": 300023,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_023"
+  },
+  {
+    "code": 300024,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_024"
+  },
+  {
+    "code": 300025,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_025"
+  },
+  {
+    "code": 300031,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_031"
+  },
+  {
+    "code": 300032,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_032"
+  },
+  {
+    "code": 300033,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_033"
+  },
+  {
+    "code": 300034,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_034"
+  },
+  {
+    "code": 300035,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_035"
+  },
+  {
+    "code": 300041,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_041"
+  },
+  {
+    "code": 300042,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_042"
+  },
+  {
+    "code": 300043,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_043"
+  },
+  {
+    "code": 300044,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_044"
+  },
+  {
+    "code": 300045,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_045"
+  },
+  {
+    "code": 300051,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_051"
+  },
+  {
+    "code": 300052,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_052"
+  },
+  {
+    "code": 300053,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_053"
+  },
+  {
+    "code": 300054,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_054"
+  },
+  {
+    "code": 300055,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_055"
+  },
+  {
+    "code": 300061,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_061"
+  },
+  {
+    "code": 300062,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_062"
+  },
+  {
+    "code": 300063,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_063"
+  },
+  {
+    "code": 300064,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_064"
+  },
+  {
+    "code": 300065,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_065"
+  },
+  {
+    "code": 300071,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_071"
+  },
+  {
+    "code": 300072,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_072"
+  },
+  {
+    "code": 300073,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_073"
+  },
+  {
+    "code": 300074,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_074"
+  },
+  {
+    "code": 300075,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_075"
+  },
+  {
+    "code": 300081,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_081"
+  },
+  {
+    "code": 300082,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_082"
+  },
+  {
+    "code": 300083,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_083"
+  },
+  {
+    "code": 300084,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_084"
+  },
+  {
+    "code": 300085,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_085"
+  },
+  {
+    "code": 300091,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_091"
+  },
+  {
+    "code": 300092,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_092"
+  },
+  {
+    "code": 300093,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_093"
+  },
+  {
+    "code": 300094,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_094"
+  },
+  {
+    "code": 300095,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_095"
+  },
+  {
+    "code": 300101,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_101"
+  },
+  {
+    "code": 300102,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_102"
+  },
+  {
+    "code": 300103,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_103"
+  },
+  {
+    "code": 300104,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_104"
+  },
+  {
+    "code": 300105,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_105"
+  },
+  {
+    "code": 300111,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_111"
+  },
+  {
+    "code": 300112,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_112"
+  },
+  {
+    "code": 300113,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_113"
+  },
+  {
+    "code": 300114,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_114"
+  },
+  {
+    "code": 300115,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_115"
+  },
+  {
+    "code": 300121,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_121"
+  },
+  {
+    "code": 300122,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_122"
+  },
+  {
+    "code": 300123,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_123"
+  },
+  {
+    "code": 300124,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_124"
+  },
+  {
+    "code": 300125,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_125"
+  },
+  {
+    "code": 300131,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_131"
+  },
+  {
+    "code": 300132,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_132"
+  },
+  {
+    "code": 300133,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_133"
+  },
+  {
+    "code": 300134,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_134"
+  },
+  {
+    "code": 300135,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_135"
+  },
+  {
+    "code": 300141,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_141"
+  },
+  {
+    "code": 300142,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_142"
+  },
+  {
+    "code": 300143,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_143"
+  },
+  {
+    "code": 300144,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_144"
+  },
+  {
+    "code": 300145,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_145"
+  },
+  {
+    "code": 300151,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_151"
+  },
+  {
+    "code": 300152,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_152"
+  },
+  {
+    "code": 300153,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_153"
+  },
+  {
+    "code": 300154,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_154"
+  },
+  {
+    "code": 300155,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_155"
+  },
+  {
+    "code": 300161,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_161"
+  },
+  {
+    "code": 300162,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_162"
+  },
+  {
+    "code": 300163,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_163"
+  },
+  {
+    "code": 300164,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_164"
+  },
+  {
+    "code": 300165,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_165"
+  },
+  {
+    "code": 300171,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_171"
+  },
+  {
+    "code": 300172,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_172"
+  },
+  {
+    "code": 300173,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_173"
+  },
+  {
+    "code": 300174,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_174"
+  },
+  {
+    "code": 300175,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_175"
+  },
+  {
+    "code": 300181,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_181"
+  },
+  {
+    "code": 300182,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_182"
+  },
+  {
+    "code": 300183,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_183"
+  },
+  {
+    "code": 300184,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_184"
+  },
+  {
+    "code": 300185,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_185"
+  },
+  {
+    "code": 300191,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_191"
+  },
+  {
+    "code": 300192,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_192"
+  },
+  {
+    "code": 300193,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_193"
+  },
+  {
+    "code": 300194,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_194"
+  },
+  {
+    "code": 300195,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_195"
+  },
+  {
+    "code": 300201,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_201"
+  },
+  {
+    "code": 300202,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_202"
+  },
+  {
+    "code": 300203,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_203"
+  },
+  {
+    "code": 300204,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_204"
+  },
+  {
+    "code": 300205,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_205"
+  },
+  {
+    "code": 300211,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_211"
+  },
+  {
+    "code": 300212,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_212"
+  },
+  {
+    "code": 300213,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_213"
+  },
+  {
+    "code": 300214,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_214"
+  },
+  {
+    "code": 300215,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_215"
+  },
+  {
+    "code": 300221,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_221"
+  },
+  {
+    "code": 300222,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_222"
+  },
+  {
+    "code": 300223,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_223"
+  },
+  {
+    "code": 300224,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_224"
+  },
+  {
+    "code": 300225,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_225"
+  },
+  {
+    "code": 300231,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_231"
+  },
+  {
+    "code": 300232,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_232"
+  },
+  {
+    "code": 300233,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_233"
+  },
+  {
+    "code": 300234,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_234"
+  },
+  {
+    "code": 300235,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_235"
+  },
+  {
+    "code": 300241,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_241"
+  },
+  {
+    "code": 300242,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_242"
+  },
+  {
+    "code": 300243,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_243"
+  },
+  {
+    "code": 300244,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_244"
+  },
+  {
+    "code": 300245,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_245"
+  },
+  {
+    "code": 300251,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_251"
+  },
+  {
+    "code": 300252,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_252"
+  },
+  {
+    "code": 300253,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_253"
+  },
+  {
+    "code": 300254,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_254"
+  },
+  {
+    "code": 300255,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_255"
+  },
+  {
+    "code": 300261,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_261"
+  },
+  {
+    "code": 300262,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_262"
+  },
+  {
+    "code": 300263,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_263"
+  },
+  {
+    "code": 300264,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_264"
+  },
+  {
+    "code": 300265,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_265"
+  },
+  {
+    "code": 300271,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_271"
+  },
+  {
+    "code": 300272,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_272"
+  },
+  {
+    "code": 300273,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_273"
+  },
+  {
+    "code": 300274,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_274"
+  },
+  {
+    "code": 300275,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_275"
+  },
+  {
+    "code": 300281,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_281"
+  },
+  {
+    "code": 300282,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_282"
+  },
+  {
+    "code": 300283,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_283"
+  },
+  {
+    "code": 300284,
+    "state_code": 2030,
+    "lga_code": 336,
+    "ward_code": 3010,
+    "name": "COMMUNITY_284"
+  },
+  {
+    "code": 300285,
+    "state_code": 2030,
+    "lga_code": 315,
+    "ward_code": 3009,
+    "name": "COMMUNITY_285"
+  }
+]
